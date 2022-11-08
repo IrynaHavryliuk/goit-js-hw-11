@@ -1,11 +1,11 @@
 {
-  "name": "parcel-project-template.git",
+  "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://irynahavryliuk.github.io/goit-js-hw-11/",
+  "homepage": "https://github.com/IrynaHavryliuk/goit-js-hw-11.git",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-11.git/"
+    "build": "parcel build src/*.html --public-url /goit-js-hw-11/"
   },
   "repository": {
     "type": "git",
